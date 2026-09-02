@@ -4,12 +4,8 @@
 |---|---|---|---|---|---|
 | LOGO-001 | Dual Delta 3D master | approved-v1 / under reconsideration | PNG | hero, avatar ≥64 px | user: unclear meaning |
 | LOGO-002 | Dual Delta production | approved-support | PNG | малые digital-носители | 7.3/10 |
-| A | Blue–green medal | shortlist / panel reject | PNG | first-place / mastery | panel 6.3; user keeps for approval |
-| B | Gold medal | shortlist / panel reject | PNG | first-place / mastery | panel 5.7; user keeps for approval |
-| C | Sculpted Option Orbit + One | shortlist / refined | PNG | 1 + option orbit | stronger premium form; residual refresh risk |
-| D | Pearl One on Gradient Pedestal | shortlist / refined | PNG | direct 1 + partner gradient | white chosen over gold; passes 40 px |
-| E | Pedestal One | shortlist | PNG | direct 1 + pedestal | light background; podium risk |
-| F | Gradient One on Gold Field | shortlist / refined | PNG | direct 1 + gold field | blue-green gradient; passes 40 px |
+| A | Blue–green Medal | finalist | PNG 1254×1254 | first-place / partnership | selected by Vlad + Alexander; passes 40 px |
+| C | Sculpted Option Orbit + One | finalist | PNG 1254×1254 | 1 + option orbit | selected by Vlad + Alexander; passes 40 px |
 | PAT-001 | Delta Flow | approved-v1 | PNG | фоновый маршрут | visual QA |
 | PAT-002 | Strike Grid | approved-v1 | PNG | учебные схемы | visual QA |
 | PAT-003 | Scenario Field | approved-v1 | PNG | абстрактный фон | visual QA |

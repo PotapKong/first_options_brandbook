@@ -1,3 +1,0 @@
-# F — Gradient One on Gold Field
-
-Create one premium custom 3D numeral `1` with a controlled diagonal blue-to-green gradient on the front face: deep cobalt blue across the lower-left and stem, transitioning into rich emerald green toward the upper-right and top flag. Keep thin deep-navy side depth for separation. Place it directly against a seamless luminous satin-gold background with subtle radial illumination and fine brushed-metal texture. No pedestal. The background must read as a field, not a coin or medal. Circular-crop safe and readable at 40 px. No trophy, stars, laurels, crypto, charts, text, border or particles.
