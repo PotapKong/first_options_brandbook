@@ -1,0 +1,49 @@
+{
+  "$schema": "https://design-tokens.github.io/community-group/format/",
+  "brand": "Первый опционный",
+  "version": "1.0",
+  "color": {
+    "system-navy": "#050B24",
+    "deep-panel": "#0B1638",
+    "partner-blue": "#0868F5",
+    "blue-shadow": "#0038A8",
+    "partner-green": "#25D366",
+    "green-shadow": "#087A3A",
+    "white": "#F7F9FF",
+    "mist": "#AEBAD2",
+    "grid": "#22345F",
+    "risk-functional": "#FF5C66",
+    "warning-functional": "#FFC857"
+  },
+  "color-usage": {
+    "body-text": ["#F7F9FF", "#AEBAD2"],
+    "partner-blue": "Крупный текст, линии, плашки и акценты; не использовать для мелкого текста на тёмном фоне",
+    "partner-green": "Акцент и партнёрская роль; не кодировать им прибыль",
+    "risk-functional": "Только риск, ошибка или запрет; не часть основной пары бренда"
+  },
+  "gradient": {
+    "blue": ["#02A5FF", "#0042FF"],
+    "green": ["#35E77A", "#079447"],
+    "field": ["#050B24", "#0B1638"]
+  },
+  "typography": {
+    "display": "Manrope 800",
+    "heading": "Manrope 700",
+    "body": "Manrope 400-500",
+    "data": "JetBrains Mono 500-700"
+  },
+  "radius": {
+    "card": 32,
+    "chip": 999,
+    "media": 48
+  },
+  "spacing": {
+    "base": 8,
+    "safe-zone-percent": 8,
+    "logo-clearspace": "1x, где x — ширина центрального negative-space strike"
+  },
+  "digital-minimum": {
+    "master-3d": 64,
+    "production-mark": 40
+  }
+}
