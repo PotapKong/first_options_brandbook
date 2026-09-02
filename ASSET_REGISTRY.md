@@ -7,8 +7,8 @@
 | PAT-001 | Delta Flow | approved-v1 | PNG | фоновый маршрут | visual QA |
 | PAT-002 | Strike Grid | approved-v1 | PNG | учебные схемы | visual QA |
 | PAT-003 | Scenario Field | approved-v1 | PNG | абстрактный фон | visual QA |
-| MSC-D-001 | Delta mascot master | planned | PNG | первый персонаж | pending |
-| MSC-S-001 | Strike mascot master | research | PNG | второй персонаж | pending |
+| MSC-D-001 | Delta mascot master | review-v2 | PNG | первый персонаж | user + panel pending |
+| MSC-S-001 | Strike mascot master | research | PNG | второй персонаж | expert concepts running |
 
 ## Статусы
 

@@ -4,23 +4,23 @@
 
 - [x] Зафиксировать структуру репозитория.
 - [x] Перенести брендбук v1, логотипы, паттерны и шаблоны.
-- [ ] Создать и подключить Hermes skill.
-- [ ] Опубликовать репозиторий на GitHub.
+- [x] Создать и подключить Hermes skill.
+- [x] Опубликовать репозиторий на GitHub.
 
 ## Этап 1 — Mascot Bible
 
-- [ ] Закрепить роли Delta и Strike.
-- [ ] Описать характер, материалы, глаза/мимику, конечности и масштаб.
-- [ ] Закрепить допустимые позы и запрещённые ассоциации.
+- [x] Закрепить роли Delta и Strike.
+- [x] Описать характер, материалы, глаза/мимику, конечности и масштаб.
+- [x] Закрепить допустимые позы и запрещённые ассоциации.
 - [ ] Определить совместный силуэт пары.
 
 ## Этап 2 — Delta mascot
 
-- [ ] Master character, neutral hero pose.
-- [ ] QA формы `Δ`, брендинга и отсутствия generic robot/game cues.
+- [x] Master character, neutral hero pose — candidate v2 in review.
+- [x] QA формы `Δ`, брендинга и отсутствия generic robot/game cues.
 - [ ] Character turnaround: front, 3/4, side, back.
 - [ ] Expression/pose sheet.
-- [ ] Small-size test и transparent-background export.
+- [x] Small-size test; transparent-background export pending approval.
 
 ## Этап 3 — Strike mascot
 
