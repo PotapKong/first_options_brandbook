@@ -22,6 +22,7 @@
 - [x] Провести независимый review: D rank #1, A rank #2, C refine, B reject.
 - [x] Сформировать чистый shortlist: A blue–green medal, B gold medal, C Option O + One, D Dual Ribbon One.
 - [x] Переименовать файлы, промпты, реестр и QA строго в A / B / C / D.
+- [x] Провести финальный blind review A–D: D 8.6 PASS, C 7.5 REFINE, A 6.3 REJECT, B 5.7 REJECT.
 - [x] Удалить устаревшие неутверждённые файлы из актуального дерева; история остаётся в Git.
 - [ ] Получить внешнее согласование вариантов A / B / C / D.
 - [ ] Провести refinement победителя и повторный blind review.
