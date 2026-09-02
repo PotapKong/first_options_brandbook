@@ -28,11 +28,11 @@ White numeral `1` inside two open blue/green O arcs.
 
 ## D
 
-Numeral `1` built directly from two interwoven blue/green ribbons.
+A clean solid 3D numeral `1`: cobalt-blue front face and a restrained green side face, without gradient or secondary metaphor.
 
-- internal score: **8.7/10**;
-- strengths: direct `1`, two partners, strongest continuity with the brand system, ownable fold;
-- main risk: green top may read as a flag or directional arrow.
+- internal assessment: **8.1/10**;
+- strengths: immediate reading, clean premium 3D, strongest simplicity, excellent 40 px behavior;
+- main risk: less ownable than a custom symbolic construction and can resemble a generic ranking/channel icon.
 
 ## Current internal ranking
 

@@ -20,9 +20,11 @@
 - [x] Сгенерировать четыре разные территории: Gradient One, First Medal, Strike One, Option O + One.
 - [x] Проверить 128/64/40 px и круговой crop.
 - [x] Провести независимый review: D rank #1, A rank #2, C refine, B reject.
-- [x] Сформировать чистый shortlist: A blue–green medal, B gold medal, C Option O + One, D Dual Ribbon One.
+- [x] Сформировать чистый shortlist: A blue–green medal, B gold medal, C Option O + One, D Solid 3D One.
+- [x] Заменить ленточную D на простую стильную 3D-единицу без градиента.
 - [x] Переименовать файлы, промпты, реестр и QA строго в A / B / C / D.
-- [x] Провести финальный blind review A–D: D 8.6 PASS, C 7.5 REFINE, A 6.3 REJECT, B 5.7 REJECT.
+- [x] Старый blind review удалён после замены D; он относился к снятой ленточной версии.
+- [ ] Провести новый blind review только после внешнего shortlist-согласования.
 - [x] Удалить устаревшие неутверждённые файлы из актуального дерева; история остаётся в Git.
 - [ ] Получить внешнее согласование вариантов A / B / C / D.
 - [ ] Провести refinement победителя и повторный blind review.
