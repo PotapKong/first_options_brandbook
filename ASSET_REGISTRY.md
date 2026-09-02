@@ -4,10 +4,10 @@
 |---|---|---|---|---|---|
 | LOGO-001 | Dual Delta 3D master | approved-v1 / under reconsideration | PNG | hero, avatar ≥64 px | user: unclear meaning |
 | LOGO-002 | Dual Delta production | approved-support | PNG | малые digital-носители | 7.3/10 |
-| LOGO-R2-A | Gradient One | concept | PNG | direct numeral 1 | user review pending |
-| LOGO-R2-B | First Medal | concept | PNG | first-place / mastery | user review pending |
-| LOGO-R2-C | Strike One | concept | PNG | 1 + strike reference | user review pending |
-| LOGO-R2-D | Option O + One | concept | PNG | 1 + option O | user review pending |
+| LOGO-R2-A | Gradient One | refine | PNG | direct numeral 1 | finalist: clarity, weak category cue |
+| LOGO-R2-B | First Medal | rejected | PNG | first-place / mastery | medal/fake-success, fails 40 px |
+| LOGO-R2-C | Strike One | refine-later | PNG | 1 + strike reference | meaningful, fails 40 px |
+| LOGO-R2-D | Option O + One | pass / user review | PNG | 1 + option O | panel rank #1; power-icon risk |
 | PAT-001 | Delta Flow | approved-v1 | PNG | фоновый маршрут | visual QA |
 | PAT-002 | Strike Grid | approved-v1 | PNG | учебные схемы | visual QA |
 | PAT-003 | Scenario Field | approved-v1 | PNG | абстрактный фон | visual QA |
