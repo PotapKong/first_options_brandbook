@@ -6,8 +6,8 @@
 | LOGO-002 | Dual Delta production | approved-support | PNG | малые digital-носители | 7.3/10 |
 | A | Blue–green medal | shortlist / panel reject | PNG | first-place / mastery | panel 6.3; user keeps for approval |
 | B | Gold medal | shortlist / panel reject | PNG | first-place / mastery | panel 5.7; user keeps for approval |
-| C | Option O + One | shortlist / refine | PNG | 1 + option O | panel 7.5; power-icon risk |
-| D | Solid 3D One | shortlist / user-requested replacement | PNG | direct numeral 1 | internal 8.1; clean 40 px |
+| C | Sculpted Option Orbit + One | shortlist / refined | PNG | 1 + option orbit | stronger premium form; residual refresh risk |
+| D | Pearl One on Gradient Pedestal | shortlist / refined | PNG | direct 1 + partner gradient | white chosen over gold; passes 40 px |
 | E | Pedestal One | shortlist | PNG | direct 1 + pedestal | light background; podium risk |
 | PAT-001 | Delta Flow | approved-v1 | PNG | фоновый маршрут | visual QA |
 | PAT-002 | Strike Grid | approved-v1 | PNG | учебные схемы | visual QA |

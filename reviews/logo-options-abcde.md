@@ -12,15 +12,17 @@ All five are active candidates for stakeholder selection.
 - strongest classic award signal;
 - risk: coin, crypto and guaranteed-success associations.
 
-## C — Option O + One
+## C — Sculpted Option Orbit + One
 
-- clean direct `1`, stable at small sizes;
-- risk: power/sync/fintech icon and low distinctiveness.
+- white `1` framed by more dimensional asymmetric blue/green arcs;
+- stronger premium styling and one controlled overlap point;
+- risk: the circular/orbital construction still retains some refresh/fintech association.
 
-## D — Solid 3D One
+## D — Pearl One on Gradient Pedestal
 
-- simplest dark-background direction, no hidden metaphor;
-- risk: generic ranking/channel icon.
+- bright pearl-white `1` on a compact blue-to-green gradient pedestal;
+- strongest contrast on the dark background and clearer premium-object composition;
+- white was chosen over gold to avoid duplicating B and to reduce coin/award associations.
 
 ## E — Pedestal One
 
