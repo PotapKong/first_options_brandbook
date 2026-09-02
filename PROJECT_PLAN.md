@@ -20,9 +20,10 @@
 - [x] Сгенерировать четыре разные территории: Gradient One, First Medal, Strike One, Option O + One.
 - [x] Проверить 128/64/40 px и круговой crop.
 - [x] Провести независимый review: D rank #1, A rank #2, C refine, B reject.
-- [x] Сформировать чистый shortlist: B1 blue–green medal, B2 gold medal, D Option O + One.
+- [x] Сформировать чистый shortlist: A blue–green medal, B gold medal, C Option O + One, D Dual Ribbon One.
+- [x] Переименовать файлы, промпты, реестр и QA строго в A / B / C / D.
 - [x] Удалить устаревшие неутверждённые файлы из актуального дерева; история остаётся в Git.
-- [ ] Получить внешнее согласование направлений B и D.
+- [ ] Получить внешнее согласование вариантов A / B / C / D.
 - [ ] Провести refinement победителя и повторный blind review.
 - [ ] После утверждения заменить знак в brandbook v2.
 
