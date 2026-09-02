@@ -9,6 +9,7 @@
 | C | Sculpted Option Orbit + One | shortlist / refined | PNG | 1 + option orbit | stronger premium form; residual refresh risk |
 | D | Pearl One on Gradient Pedestal | shortlist / refined | PNG | direct 1 + partner gradient | white chosen over gold; passes 40 px |
 | E | Pedestal One | shortlist | PNG | direct 1 + pedestal | light background; podium risk |
+| F | Blue One on Gold Field | shortlist | PNG | direct 1 + gold field | high contrast; gold-success risk |
 | PAT-001 | Delta Flow | approved-v1 | PNG | фоновый маршрут | visual QA |
 | PAT-002 | Strike Grid | approved-v1 | PNG | учебные схемы | visual QA |
 | PAT-003 | Scenario Field | approved-v1 | PNG | абстрактный фон | visual QA |

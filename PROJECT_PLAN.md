@@ -20,15 +20,16 @@
 - [x] Сгенерировать четыре разные территории: Gradient One, First Medal, Strike One, Option O + One.
 - [x] Проверить 128/64/40 px и круговой crop.
 - [x] Провести независимый review: D rank #1, A rank #2, C refine, B reject.
-- [x] Сформировать чистый shortlist: A Blue–green Medal, B Gold Medal, C Sculpted Option Orbit + One, D Pearl One on Gradient Pedestal, E Pedestal One.
+- [x] Сформировать чистый shortlist: A Blue–green Medal, B Gold Medal, C Sculpted Option Orbit + One, D Pearl One on Gradient Pedestal, E Pedestal One, F Blue One on Gold Field.
+- [x] Добавить F: синяя 3D-единица с зелёной гранью на золотом фоне.
 - [x] Добавить E: 3D-единица на низком пьедестале и светлом фоне.
 - [x] Усилить C: асимметричные скульптурные дуги, объём и контролируемый стык.
 - [x] Обновить D: жемчужно-белая единица на сине-зелёном градиентном пьедестале.
-- [x] Переименовать файлы, промпты, реестр и QA строго в A / B / C / D / E.
+- [x] Переименовать файлы, промпты, реестр и QA строго в A / B / C / D / E / F.
 - [x] Старый blind review удалён после замены D; он относился к снятой ленточной версии.
 - [ ] Провести новый blind review только после внешнего shortlist-согласования.
 - [x] Удалить устаревшие неутверждённые файлы из актуального дерева; история остаётся в Git.
-- [ ] Получить внешнее согласование вариантов A / B / C / D / E.
+- [ ] Получить внешнее согласование вариантов A / B / C / D / E / F.
 - [ ] Провести refinement победителя и повторный blind review.
 - [ ] После утверждения заменить знак в brandbook v2.
 
