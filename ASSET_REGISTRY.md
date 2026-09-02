@@ -6,7 +6,6 @@
 | LOGO-002 | Dual Delta production | approved-support | PNG | малые digital-носители | 7.3/10 |
 | A | Blue–green Medal | finalist / under reconsideration | PNG 1254×1254 | first-place / partnership | Vlad+Alexander picked; later called mid |
 | C | Sculpted Option Orbit + One | finalist / under reconsideration | PNG 1254×1254 | 1 + option orbit | Vlad+Alexander picked; later called mid |
-| G | First Strike | lead candidate | PNG 1024×1024 | 1 + strike decision level | new direction after trend reset; internal 8.4 |
 | PAT-001 | Delta Flow | approved-v1 | PNG | фоновый маршрут | visual QA |
 | PAT-002 | Strike Grid | approved-v1 | PNG | учебные схемы | visual QA |
 | PAT-003 | Scenario Field | approved-v1 | PNG | абстрактный фон | visual QA |
