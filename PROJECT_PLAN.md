@@ -20,8 +20,9 @@
 - [x] Сгенерировать четыре разные территории: Gradient One, First Medal, Strike One, Option O + One.
 - [x] Проверить 128/64/40 px и круговой crop.
 - [x] Провести независимый review: D rank #1, A rank #2, C refine, B reject.
-- [x] Сформировать чистый shortlist: A Blue–green Medal, B Gold Medal, C Sculpted Option Orbit + One, D Pearl One on Gradient Pedestal, E Pedestal One, F Blue One on Gold Field.
-- [x] Добавить F: синяя 3D-единица с зелёной гранью на золотом фоне.
+- [x] Сформировать чистый shortlist: A Blue–green Medal, B Gold Medal, C Sculpted Option Orbit + One, D Pearl One on Gradient Pedestal, E Pedestal One, F Gradient One on Gold Field.
+- [x] Уточнить F: заменить однотонную синюю единицу на фирменный сине-зелёный градиент.
+- [x] Добавить F: градиентная сине-зелёная 3D-единица на золотом фоне.
 - [x] Добавить E: 3D-единица на низком пьедестале и светлом фоне.
 - [x] Усилить C: асимметричные скульптурные дуги, объём и контролируемый стык.
 - [x] Обновить D: жемчужно-белая единица на сине-зелёном градиентном пьедестале.

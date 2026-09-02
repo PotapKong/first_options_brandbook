@@ -1,3 +1,3 @@
-# F — Blue One on Gold Field
+# F — Gradient One on Gold Field
 
-Create one premium custom 3D numeral `1` with a solid saturated cobalt-blue front face, slim vivid-green right-side face and restrained deep-navy depth. Place it directly against a seamless luminous satin-gold background with subtle radial illumination and fine brushed-metal texture. No pedestal. The background must read as a field, not a coin, medal or gold plate. Circular-crop safe and readable at 40 px. No gradient on the numeral, trophy, stars, laurels, crypto, charts, text, border or particles.
+Create one premium custom 3D numeral `1` with a controlled diagonal blue-to-green gradient on the front face: deep cobalt blue across the lower-left and stem, transitioning into rich emerald green toward the upper-right and top flag. Keep thin deep-navy side depth for separation. Place it directly against a seamless luminous satin-gold background with subtle radial illumination and fine brushed-metal texture. No pedestal. The background must read as a field, not a coin or medal. Circular-crop safe and readable at 40 px. No trophy, stars, laurels, crypto, charts, text, border or particles.
