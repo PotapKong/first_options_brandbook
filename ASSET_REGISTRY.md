@@ -8,6 +8,7 @@
 | B | Gold medal | shortlist / panel reject | PNG | first-place / mastery | panel 5.7; user keeps for approval |
 | C | Option O + One | shortlist / refine | PNG | 1 + option O | panel 7.5; power-icon risk |
 | D | Solid 3D One | shortlist / user-requested replacement | PNG | direct numeral 1 | internal 8.1; clean 40 px |
+| E | Pedestal One | shortlist | PNG | direct 1 + pedestal | light background; podium risk |
 | PAT-001 | Delta Flow | approved-v1 | PNG | фоновый маршрут | visual QA |
 | PAT-002 | Strike Grid | approved-v1 | PNG | учебные схемы | visual QA |
 | PAT-003 | Scenario Field | approved-v1 | PNG | абстрактный фон | visual QA |
