@@ -12,6 +12,7 @@
 | MSC-D-001 | Delta mascot master | candidate-for-user-approval-v5 | PNG | первый персонаж | friendly eyes + mouth |
 | MSC-S-001 | Strike mascot master | concept-selected | PNG | второй персонаж | «Калибр», panel 9/9/9 |
 | CHAT-AVATAR-COHORT-01 | `1` + graduation cap, blue/green tassel | candidate-for-user-approval-v3 | PNG 1024 | Telegram-аватар учебного чата | GPT Image 2 only; no text; circular-safe |
+| EDU-MOEX-001 | Первая карта российского опционного рынка | design-mockup-v1 | PDF + HTML + MD | учебный материал MOEX с 13 дизайнерскими комментариями | 20 страниц; text/structure/visual QA passed |
 
 ## Статусы
 
