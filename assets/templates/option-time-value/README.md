@@ -1,9 +1,10 @@
 # EDU-TIMEVALUE-001
 
 - **Актив:** серия учебных Telegram-карточек «Временная стоимость опциона»
-- **Статус:** candidate-for-user-approval-v2
+- **Статус:** candidate-for-user-approval-v3-simple
 - **Роль:** объяснить новичку состав премии, расчёт временной стоимости и её поведение к экспирации
 - **Формат:** 6 квадратных PNG, 1254×1254
+- **Уровень:** абсолютный новичок; серия работает без знания терминов CALL, PUT, страйк и формул
 - **Производство:** GPT Image 2.5, image-to-image с точным референсом единицы в шапке курса «Опционы с нуля»
 - **Айдентика:** cinematic navy academy, ivory numeral 1, dark graduation cap, blue/green braided tassel, cobalt/emerald accents
 - **Запрет:** не использовать логотип «Первого опционного» и не заменять единицу другим символом
@@ -19,14 +20,14 @@
 - мелкий, обрезанный или искажённый русский текст;
 - появился логотип «Первого опционного», fake market data, candles/arrows/rockets, crypto/gaming drift.
 
-## Файлы кандидата v2
+## Файлы кандидата v3-simple
 
-- `concepts/gpt-image-2.5-v2/01.png`
-- `concepts/gpt-image-2.5-v2/02.png`
-- `concepts/gpt-image-2.5-v2/03.png`
-- `concepts/gpt-image-2.5-v2/04.png`
-- `concepts/gpt-image-2.5-v2/05.png`
-- `concepts/gpt-image-2.5-v2/06.png`
-- `concepts/gpt-image-2.5-v2/contact-sheet.png`
+- `concepts/gpt-image-2.5-v3-simple/01.png`
+- `concepts/gpt-image-2.5-v3-simple/02.png`
+- `concepts/gpt-image-2.5-v3-simple/03.png`
+- `concepts/gpt-image-2.5-v3-simple/04.png`
+- `concepts/gpt-image-2.5-v3-simple/05.png`
+- `concepts/gpt-image-2.5-v3-simple/06.png`
+- `concepts/gpt-image-2.5-v3-simple/contact-sheet.png`
 - `post.md`
-- generation spec: `prompts/option-time-value-gpt25-v2.md`
+- generation spec: `prompts/option-time-value-gpt25-v3-simple.md`

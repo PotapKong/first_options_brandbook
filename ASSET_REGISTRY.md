@@ -13,7 +13,7 @@
 | MSC-S-001 | Strike mascot master | concept-selected | PNG | второй персонаж | «Калибр», panel 9/9/9 |
 | CHAT-AVATAR-COHORT-01 | `1` + graduation cap, blue/green tassel | candidate-for-user-approval-v3 | PNG 1024 | Telegram-аватар учебного чата | GPT Image 2 only; no text; circular-safe |
 | EDU-MOEX-001 | Первая карта российского опционного рынка | design-mockup-v1 | PDF + HTML + MD | учебный материал MOEX с 13 дизайнерскими комментариями | 20 страниц; text/structure/visual QA passed |
-| EDU-TIMEVALUE-001 | Временная стоимость опциона | candidate-for-user-approval-v2 | 6 PNG 1254×1254 + MD | Telegram-серия курса «Опционы с нуля» | GPT Image 2.5; exact unit-in-grad-cap reference; text/visual QA passed |
+| EDU-TIMEVALUE-001 | Временная стоимость опциона | candidate-for-user-approval-v3-simple | 6 PNG 1254×1254 + MD | Telegram-серия курса «Опционы с нуля» | GPT Image 2.5; no-formula beginner sequence; exact unit-in-grad-cap reference; text/visual QA passed |
 
 ## Статусы
 
