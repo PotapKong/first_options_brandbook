@@ -64,6 +64,7 @@
 - [ ] Telegram post/story covers.
 - [x] Candidate v3: GPT Image 2, монументальная 1 + academic cap с blue/green tassel; ждёт пользовательского утверждения.
 - [x] Design-mockup v1: «Первая карта российского опционного рынка» — 20-страничный A4 PDF с 13 служебными дизайнерскими комментариями и воспроизводимой HTML-сборкой.
+- [x] Candidate v2: серия из 6 карточек «Временная стоимость опциона», GPT Image 2.5, единица в шапке курса как identity reference; ждёт пользовательского утверждения.
 - [ ] Course module covers.
 - [ ] Lesson title cards.
 - [ ] Navigation badges.
