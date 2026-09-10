@@ -1,10 +1,11 @@
 # Module 01 live now
 
-- Asset: urgent Telegram live-stream announcement
+- Asset: срочный Telegram-анонс прямого эфира
 - Course: «Опционы с нуля»
 - Module: 1, «Анатомия контракта»
+- Final: `concepts/module-01-live-now-v3.png`
 - Format: 1280×720 PNG
-- Source photo: user-provided announcement image
-- Method: deterministic text-region replacement; no generative edits
-- Preservation verification: source pixels at x >= 540 are identical, including both experts and course mark
+- Method: GPT Image 2.5 с реальными identity references Сэма и Михалыча
+- Scene: Сэм разбирает на прозрачной доске CALL/PUT, страйк, премию, экспирацию, ITM/ATM/OTM; Михалыч рядом как второй эксперт
+- Identity: Михалыч после снижения веса, спортивный и подтянутый, без живота и объёмного худи
 - Status: candidate-for-user-approval
