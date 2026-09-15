@@ -9,7 +9,7 @@
 
 ## 🎓 Введение
 
-[[inline_image:concepts/rich-sections/introduction-v1.png]]
+[[inline_image:concepts/rich-sections-v2-narrow/introduction-v2.png]]
 
 **[OCC](https://www.theocc.com/)**
 Официальный сайт клиринговой организации рынка биржевых опционов США.
@@ -27,7 +27,7 @@
 
 ## 📊 Модуль 1. Анатомия контракта
 
-[[inline_image:concepts/rich-sections/module-01-contract-v1.png]]
+[[inline_image:concepts/rich-sections-v2-narrow/module-01-contract-v2.png]]
 
 **[thinkorswim](https://www.schwab.com/trading/thinkorswim/download)**
 Опционная доска и Risk Profile. Для работы нужен аккаунт Charles Schwab.
@@ -49,7 +49,7 @@
 
 ## 🧩 Модуль 2. Преимущества и ограничения
 
-[[inline_image:concepts/rich-sections/module-02-tradeoffs-v1.png]]
+[[inline_image:concepts/rich-sections-v2-narrow/module-02-tradeoffs-v2.png]]
 
 **[Видео Сэма «Преимущества опционов»](https://youtu.be/AVS1jq9Duao)**
 Ссылка из урока 2.3.
@@ -58,7 +58,7 @@
 
 ## 🧭 Терминалы для российского рынка
 
-[[inline_image:concepts/rich-sections/russian-terminals-v1.png]]
+[[inline_image:concepts/rich-sections-v2-narrow/russian-terminals-v2.png]]
 
 **[QUIK для клиентов ВТБ](https://www.vtb.ru/personal/investicii/quik/quik/)**
 Официальная загрузка и настройка терминала.
@@ -74,7 +74,7 @@
 
 ## 🛠 OptionWorkshop для российского рынка
 
-[[inline_image:concepts/rich-sections/optionworkshop-v1.png]]
+[[inline_image:concepts/rich-sections-v2-narrow/optionworkshop-v2.png]]
 
 **[OptionWorkshop](https://itglobal.ru/products/option-workshop)**
 Альтернатива thinkorswim для работы с опционами на российском рынке: опционная доска, P&L-графики, разбор позиции на стратегии, сравнение стратегий и What-if сценарии.
