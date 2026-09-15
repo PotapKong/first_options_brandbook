@@ -16,6 +16,7 @@
 | EDU-TIMEVALUE-001 | Временная стоимость опциона | candidate-for-user-approval-v3-simple | 6 PNG 1254×1254 + MD | Telegram-серия курса «Опционы с нуля» | GPT Image 2.5; no-formula beginner sequence; exact unit-in-grad-cap reference; text/visual QA passed |
 | LIVE-REC-M01-001 | Запись эфира по модулю 1 «Анатомия контракта» | candidate-for-user-approval-v2 | PNG 1280×720 + MD | обложка и пост для Telegram | real frame 00:23:30; no generative face editing; text/visual QA passed |
 | COURSE-LINKS-001 | Полезные ссылки к Введению и модулям 1–2 | candidate-for-user-approval-v1 | PNG 1254×1254 + MD | Telegram-пост курса | 18 lessons audited 2026-09-15; source links checked; text/visual QA passed |
+| LIVE-SCEN-M02-001 | Сценарий эфира после модуля 2 для Михалыча и Сэма | ready-for-expert-review | MD | run-of-show + реплики + fact grid | 65 мин; модуль 2 + вопросы потока; calc QA 300/1 300/103 |
 
 ## Статусы
 
