@@ -15,6 +15,7 @@
 | EDU-MOEX-001 | Первая карта российского опционного рынка | design-mockup-v1 | PDF + HTML + MD | учебный материал MOEX с 13 дизайнерскими комментариями | 20 страниц; text/structure/visual QA passed |
 | EDU-TIMEVALUE-001 | Временная стоимость опциона | candidate-for-user-approval-v3-simple | 6 PNG 1254×1254 + MD | Telegram-серия курса «Опционы с нуля» | GPT Image 2.5; no-formula beginner sequence; exact unit-in-grad-cap reference; text/visual QA passed |
 | LIVE-REC-M01-001 | Запись эфира по модулю 1 «Анатомия контракта» | candidate-for-user-approval-v2 | PNG 1280×720 + MD | обложка и пост для Telegram | real frame 00:23:30; no generative face editing; text/visual QA passed |
+| COURSE-LINKS-001 | Полезные ссылки к Введению и модулям 1–2 | candidate-for-user-approval-v1 | PNG 1254×1254 + MD | Telegram-пост курса | exact unit-in-grad-cap reference; source links checked; text/visual QA passed |
 
 ## Статусы
 
